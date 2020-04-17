@@ -1,2 +1,2 @@
 # COVID-19-Tracker
-An app to track the status of patients suffering from COVID-19. 
+A COVID-19 tracking app using React.js, Material UI & Chart js. 
